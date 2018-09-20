@@ -7,3 +7,4 @@ The Network has one hidden layer(with two nodes) and one output layer(single nod
 After 113858 iterations, I got the following results!
 ![training result](/xor.png)
 
+I would appreciate any feedbacks to improvise this implementation. 
